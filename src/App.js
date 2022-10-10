@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import { useEffect } from 'react';
 import { PublicKey } from 'snarkyjs';
 //import { PrivateKey } from 'snarkyjs';
